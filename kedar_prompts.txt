@@ -1,0 +1,10 @@
+Create a plan.md file for a Spring Boot Order Management microservice.
+
+Include:
+- Goal: REST API for Order domain, channel: WEB/MOBILE/PARTNER
+- Scope: Create, Delete, Read (single + all) endpoints
+- Out of scope: Auth, database (use in-memory store), pagination
+- Stack: Java 17, Spring Boot 4.1.0, Lombok, Jakarta Validation
+- Package: com.synchrony.orders
+
+Save as: docs/plan.md
