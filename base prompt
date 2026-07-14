@@ -1,0 +1,9 @@
+In my intellij IDE I will be having a starter project from springinitializer with dependencies e.g. Web, validation, lombok
+
+Assume Spring boot app I am going to build will have Create, delete, Read  endpoints for Order. 
+ZERO hand written code.
+
+ Provide me copilot prompts to generate each of .MD files, code, tests. After all code and tests are written, assume there is requirement to update the order; I should only be needed to provide more prompts to 
+-- update .MD files, 
+-- update code to match .MD files
+-- Build the code and code should run.   No Hand written code or test classes should be needed.
